@@ -1,4 +1,5 @@
-### **Por que o CDI é 90% da Selic?**
+
+<!-- ### **Por que o CDI é 90% da Selic?**
 O **CDI (Certificado de Depósito Interbancário)** é calculado com base na Taxa Selic, mas costuma ser aproximadamente **90% da Selic diária efetiva**. Isso ocorre porque o CDI reflete as operações de curto prazo entre bancos, enquanto a Selic é uma taxa de política monetária.
 
 Portanto:
@@ -45,4 +46,4 @@ No seu caso:
 ### **Resumo:**
 O cálculo está correto. O CDI **não é o rendimento final**, mas apenas a base para determinar a taxa prometida pelo banco. Se o banco promete "110% do CDI", isso significa que você receberá **10% acima do valor do CDI**, e isso já está refletido nos cálculos e no resultado exibido.
 
-Se ainda tiver dúvidas, posso reformular o cálculo ou incluir uma explicação mais clara na interface para o usuário entender como o CDI é usado no cálculo.
+Se ainda tiver dúvidas, posso reformular o cálculo ou incluir uma explicação mais clara na interface para o usuário entender como o CDI é usado no cálculo. -->
