@@ -14,18 +14,16 @@ O **CDI (Certificado de Depósito Interbancário)** é calculado com base na tax
 
 Por exemplo:
 - **Taxa Selic atual (anual):** 12,25%.
-- **CDI estimado:** \( \text{CDI} \approx 12,25\% \times 0,9 = 11,03\% \).
+- **CDI estimado:** CDI ~= 12,25% x 0,9 = 11,03% .
 
 ### **O que significa 110% do CDI?**
 Quando o banco promete "110% do CDI", ele garante um rendimento **10% superior ao CDI padrão**. Isso significa que a taxa efetiva do investimento será:
 
-\[
-\text{Taxa Efetiva} = \text{CDI} \times 1,1
-\]
+Taxa Efetiva = CDI x 1,1
 
 No exemplo:
 - CDI = 11,03%.
-- Taxa final = \( 11,03\% \times 1,1 = 12,133\% \text{ ao ano.} \)
+- Taxa final = 11,03% x 1,1 = 12,133%  ao ano.
 
 ### **Fluxo dos Cálculos**
 O cálculo segue o fluxo:
